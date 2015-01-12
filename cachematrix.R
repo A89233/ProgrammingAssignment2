@@ -1,4 +1,4 @@
-# makeCacheMatrix creates a special matrix, which is really a list containing a function to 
+# makeCacheMatrix creates a special matrix, which is a list containing a function to 
 # 1. setMatrix: caches the matrix passed as parameter
 # 2. getMatrix: gets the matrix
 # 3. setInverseMatrix: caches the inverse of the matrix
